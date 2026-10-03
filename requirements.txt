@@ -1,0 +1,5 @@
+streamlit==1.32.0
+google-genai
+pydantic==2.6.4
+pypdf==4.1.0
+streamlit-mic-recorder==0.0.8
